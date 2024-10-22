@@ -2,7 +2,7 @@
 C Object Configuration or 'COC' for short, is a minimal config language. COC is designed to seamlessly integrate into C/C++ codebases with minimal overhead, providing developers with a strongly typed configuration language that feels familiar and intuitive.
 ___
 ### Documentation on COC iterations
-- **Latest:** [Version I]() - Initial release
+- **Latest:** [Version I](coc_documentation_i.md) - Initial release
 ___
 ### Libraries for integrating COC
 - ***C++***
